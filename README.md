@@ -76,9 +76,12 @@ Since this project uses **Swift Package Manager (SPM)**:
 
 ### **Login Screen**
 
+![Login](https://github.com/user-attachments/assets/098162ff-39db-4dae-bea9-6407f8bde16c)
 
 ### **Home Screen (Posts)**
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-28 at 13 56 57](https://github.com/user-attachments/assets/c6cd6d05-6da7-4a7f-97d5-3a440a38b989)
 
 
 ### **Favorites Screen**
 
+![Favourite](https://github.com/user-attachments/assets/f5f06cad-18c4-42aa-ba86-600f59267348)
